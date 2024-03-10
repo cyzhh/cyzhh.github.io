@@ -7,6 +7,11 @@ title: Yezeng Chen's Homepage
   <img src="./image/cyzhh.jpg" width="200" />
 </p>
 
+<p align="center">
+  | Shanghai, China | chenyz2022@shanghaitech.edu.cn | <a href="[https://huggingface.co/datasets/cyzhh/MMOS](https://github.com/cyzhh)">Github</a> | <a href="https://scholar.google.com/citations?user=lTzirtEAAAAJ&hl=en">Google Scholar</a> |
+</p>
+
+
 # **About me**
 
 Hi! I’m Yezeng Chen, a second year graduate student majored in computer science at School of Information Science and Technology, Shanghaitech University.
