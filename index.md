@@ -7,6 +7,14 @@ title: Yezeng Chen's Homepage
   <img src="./image/cyzhh.jpg" width="200" />
 </p>
 
+.profile-pic {
+  border-radius: 50%;
+  width: 100px; /* 或者你想要的尺寸 */
+  height: 100px; /* 这个高度应该和宽度相同来保持图片的圆形 */
+}
+
+<img src="./image/cyzhh.jpg" alt="Yezeng Chen" class="profile-pic" />
+
 # **About me**
 
 Hi! I’m Yezeng Chen, a second year graduate student majored in computer science at School of Information Science and Technology, Shanghaitech University.
