@@ -1,12 +1,12 @@
-title: Yezeng Chen 
-author:
-  name: cyzhh
-  email: chenyz2022@shanghaitech.edu.cn
+# title: Yezeng Chen 
+# author:
+#   name: cyzhh
+#   email: chenyz2022@shanghaitech.edu.cn
 
-# The `>` after `description:` means to ignore line-breaks until next key.
-# If you want to omit the line-break after the end of text, use `>-` instead.
-description: >
-  There is the homepage of cyzhh.
+# # The `>` after `description:` means to ignore line-breaks until next key.
+# # If you want to omit the line-break after the end of text, use `>-` instead.
+# description: >
+#   There is the homepage of cyzhh.
 
 # Build settings
 
