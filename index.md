@@ -8,9 +8,9 @@ title: Yezeng Chen's Homepage
 </p>
 
 <p align="center">
-  | Shanghai, China | chenyz2022@shanghaitech.edu.cn | <a href="https://github.com/cyzhh"></p>Github</a> | <a href="https://scholar.google.com/citations?user=lTzirtEAAAAJ&hl=en">Google Scholar</a> |
-
-
+  | Shanghai, China | chenyz2022@shanghaitech.edu.cn | <a href="https://github.com/cyzhh">:octocat:Github</a> | <a href="https://scholar.google.com/citations?user=lTzirtEAAAAJ&hl=en">📃Google Scholar</a> |
+</p>
+  
 # **About me**
 
 Hi! I’m Yezeng Chen, a second year graduate student majored in computer science at School of Information Science and Technology, Shanghaitech University.
