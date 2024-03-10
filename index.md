@@ -25,7 +25,7 @@ My research interests are about natural language processing and large language m
 
 # **Publications**
 
- - Y. Yangming, L. Chunxiao, C. YeZeng, D. Zijie and Z. Yi, "Knowledge Discovery from Natural Languages: a Linguistic Dataset of 10K Kinship Relations," 2023 IEEE 6th International Conference on Big Data and Artificial Intelligence (BDAI),  2023
- - Haoyi Wu, Wenyang Hui, Yezeng Chen, Weiqi Wu, Kewei Tu, and Yi Zhou. 2023. Conic10K: A Challenging Math Problem Understanding and Reasoning Dataset. In Findings of the Association for Computational Linguistics: EMNLP 2023, pages 6444–6458, Singapore. Association for Computational Linguistics.
- - Chen, Z., Chen, Y., Han, J., Huang, Z., Qi, J., & Zhou, Y. (2024). An Empirical Study of Data Ability Boundary in LLMs' Math Reasoning. arXiv preprint arXiv:2403.00799.
- - Chen, Y., Chen, Z., & Zhou, Y. (2024). Brain-Inspired Two-Stage Approach: Enhancing Mathematical Reasoning by Imitating Human Thought Processes. arXiv preprint arXiv:2403.00800.
+ - Y. Yangming, L. Chunxiao, C. YeZeng, D. Zijie and Z. Yi, [Knowledge Discovery from Natural Languages: a Linguistic Dataset of 10K Kinship Relations](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10257043), 2023 IEEE 6th International Conference on Big Data and Artificial Intelligence (BDAI),  2023
+ - Haoyi Wu, Wenyang Hui, Yezeng Chen, Weiqi Wu, Kewei Tu, and Yi Zhou. 2023. [Conic10K: A Challenging Math Problem Understanding and Reasoning Dataset](https://arxiv.org/pdf/2311.05113.pdf). In Findings of the Association for Computational Linguistics: EMNLP 2023, pages 6444–6458, Singapore. Association for Computational Linguistics.
+ - Chen, Z., Chen, Y., Han, J., Huang, Z., Qi, J., & Zhou, Y. (2024). [An Empirical Study of Data Ability Boundary in LLMs' Math Reasoning](https://arxiv.org/pdf/2403.00799.pdf). arXiv preprint arXiv:2403.00799.
+ - Chen, Y., Chen, Z., & Zhou, Y. (2024). [Brain-Inspired Two-Stage Approach: Enhancing Mathematical Reasoning by Imitating Human Thought Processes](https://arxiv.org/pdf/2403.00800.pdf). arXiv preprint arXiv:2403.00800.
