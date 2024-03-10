@@ -8,7 +8,7 @@ title: Yezeng Chen's Homepage
 </p>
 
 <p align="center">
-  | ⌚ Shanghai, China | 📧 chenyz2022@shanghaitech.edu.cn | :octocat: <a href="https://github.com/cyzhh">Github</a> | 📃 <a href="https://scholar.google.com/citations?user=lTzirtEAAAAJ&hl=en">Google Scholar</a> |
+  | ⌚ Shanghai, China | 📧 chenyz2022@shanghaitech.edu.cn | <a href="https://github.com/cyzhh">Github</a> | 📃 <a href="https://scholar.google.com/citations?user=lTzirtEAAAAJ&hl=en">Google Scholar</a> |
 </p>
   
 # **About me**
