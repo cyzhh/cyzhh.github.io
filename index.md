@@ -4,7 +4,7 @@ title: Yezeng Chen's Homepage
 ---
 
 <p align="center">
-  <img src="./image/cyzhh.jpg" width="500" />
+  <img src="./image/cyzhh.jpg" width="200" />
 </p>
 
 # **About me**
