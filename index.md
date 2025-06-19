@@ -13,14 +13,15 @@ title: Yezeng Chen's Homepage
   
 # **About me**
 
-Hi! I’m Yezeng Chen, a second year graduate student majored in computer science at School of Information Science and Technology, Shanghaitech University.
+Greetings! My name is Chen Yezeng, currently pursuing a Master's degree in Computer Science at the School of Information Science and Technology, ShanghaiTech University. I'll be starting my position at Huawei's Consumer Business Group this coming August.
 
 My research interests are about natural language processing and large language model. Currently, I am actively involved in an exciting project, with a special focus on **AI for Chemistry (AI4Chem)** and **AI for Mathematics (AI4Math)**. I firmly believe that AI for Science/Math will change the future of scientific research. For more information, please refer to my resume. Should you have any questions, collaboration inquiries, or opportunities, please do not hesitate to contact me via email.
 
 # **Education** 
- 
- - Internship at XiaoYi, Huawei 2024.06-2025.12
- - M.E. in Computer Science and Technology, ShanghaiTech University, 2022.09-2025.06(estimated)
+
+ - Work at XiaoYi, Huawei 2025.8-2029.8(estimated)
+ - Internship at XiaoYi, Huawei 2024.06-2024.12
+ - M.E. in Computer Science and Technology, ShanghaiTech University, 2022.09-2025.06
  - B.E. in Computer Science and Technology, ShanghaiTech University, 2018.09-2022.06
 
 # **Publications**
